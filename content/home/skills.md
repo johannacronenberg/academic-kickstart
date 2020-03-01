@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "file-alt"
-  icon_pack = "fab"
+  icon_pack = "fa"
   name = "LaTeX"
   description = "" 
 
@@ -34,13 +34,13 @@ subtitle = ""
 
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fa"
   name = "SQL"
   description = ""  
   
 [[feature]]
   icon = "terminal"
-  icon_pack = "fab"
+  icon_pack = "fa"
   name = "bash"
   description = ""  
 
