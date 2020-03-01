@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Johanna Cronenberg
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Institute of Phonetics and Speech Processing, University of Munich
+  url: "https://www.en.phonetik.uni-muenchen.de/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the origins and spread of sound changes as well as agent-based modelling.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sound Change: How and why do sounds or sound systems change over time in the languages of the worlds?
+- Speech Perception: Given the infinite amount of variability in speech production, how do humans process speech?
+- Computational Modelling: How can we use computational power and modelling techniques to investigate sound changes?
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Phonetics and Speech Processing
+    institution: University of Munich
+    year: since 2019
+  - course: M.A. Phonetics and Speech Processing
+    institution: University of Munich
+    year: 2018
+  - course: B.A. Language and Communication
+    institution: University of Marburg
+    year: 2016
+  - course: B.A. Romance Philology
+    institution: University of Marburg & University of Madrid
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,23 +48,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/johannacronenberg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "johanna.cronenberg@phonetik.uni-muenchen.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I first fell in love with phonetics in 2013 in an introductory class that was part of my B.A. in Language and Communication. 
+After finishing my philological and linguistic undergraduate studies, I came to Munich to study at the Institute of Phonetics and 
+Speech Processing. It is here that I am currently pursuing my PhD in phonetics as part of the ERC project "InterAccent" 
+supervised by Prof. Jonathan Harrington. My research interests include all facets of sound change as well as computational 
+modelling techniques such as agent-based modelling as a method of investigating sound change.
