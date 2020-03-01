@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include the origins and spread of sound changes as well as agent-based modelling.
 
 interests:
-- Sound Change: How and why do sounds or sound systems change over time in the languages of the worlds?
-- Speech Perception: Given the infinite amount of variability in speech production, how do humans process speech?
-- Computational Modelling: How can we use computational power and modelling techniques to investigate sound changes?
+- Sound Change
+- Speech Perception
+- Computational Modelling
 
 education:
   courses:
