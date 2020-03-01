@@ -2,17 +2,17 @@
 name = "my_theme"
 
 # Is theme light or dark?
-light = false
+light = true
 
 # Primary
-primary = "hsla(180, 82%, 18%, 1)"
+primary = "hsl(212, 68%, 43%)"
 
 # Menu
-menu_primary = "hsla(333, 82%, 18%, 1)"
+menu_primary = "hsl(212, 70%, 12%)"
 menu_text = "rgba(255,255,255,0.6)"
 menu_text_active = "rgba(255,255,255,1)"
 menu_title = "#fff"
 
 # Home sections
-home_section_odd = "hsla(333, 82%, 21%, 1)"
-home_section_even = "hsla(333, 82%, 18%, 1)"
+home_section_odd = "hsl(212, 70%, 14%)"
+home_section_even = "hsl(212, 70%, 18%)"
